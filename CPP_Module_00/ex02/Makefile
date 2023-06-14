@@ -1,0 +1,13 @@
+NAME = Resultat
+
+SRC = Account.cpp tests.cpp
+FLAGS = -Wall -Werror -Wextra
+CC = c++
+
+all : $(NAME)
+
+$(NAME) :
+			$(CC) $(FLAGS) $(SRC) -o $(NAME)
+
+clean : 
+		rm -f $(NAME)
