@@ -1,7 +1,7 @@
 # Salut !
 
 ## À propos de moi
-Je suis un passionné de programmation et j'adore explorer de nouvelles technologies. Mon domaine d'expertise principal est le développement web, mais je suis également intéressé par l'apprentissage automatique et l'intelligence artificielle. J'aime contribuer à des projets open source et partager mes connaissances avec la communauté.
+Je suis un passionné de programmation et j'adore explorer de nouvelles technologies. Mon domaine d'expertise principal est le développement logiciel, mais je suis également intéressé par le web et le jeux-video  .
 
 ## Mes compétences
 - Langages de programmation : JavaScript, Python, HTML, CSS
