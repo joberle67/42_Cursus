@@ -4,8 +4,7 @@
 Je suis un passionné de programmation et j'adore explorer de nouvelles technologies. Mon domaine d'expertise principal est le développement logiciel, mais je suis également intéressé par le web et le jeux-video  .
 
 ## Mes compétences
-- Langages de programmation : JavaScript, Python, HTML, CSS
-- Frameworks : React, Node.js, Django
+- Langages de programmation : C, C++, PYTHON
 - Outils de développement : Git, VS Code, Docker
 - Base de données : MongoDB, MySQL
 
