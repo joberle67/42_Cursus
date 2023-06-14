@@ -14,5 +14,5 @@ Je suis un passionné de programmation et j'adore explorer de nouvelles technolo
 - [Projet 3](lien-vers-le-projet) : Une application de blog développée avec React et Node.js.
 
 ## Contactez-moi
-Vous pouvez me contacter par e-mail à [joberle@student.42mulhouse.fr] ou me suivre sur [Twitter](lien-vers-votre-compte-twitter) pour rester à jour sur mes derniers projets.
+Vous pouvez me contacter par e-mail à joberle@student.42mulhouse.fr ou me suivre sur [Twitter](lien-vers-votre-compte-twitter) pour rester à jour sur mes derniers projets.
 
